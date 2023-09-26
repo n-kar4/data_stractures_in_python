@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch n",
+            "request": "launch",
+            "mainClass": "n",
+            "projectName": "Python_27b8090a"
+        },
+        {
+            "type": "java",
+            "name": "Launch countObject",
+            "request": "launch",
+            "mainClass": "countObject",
+            "projectName": "Python_63802d47"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
